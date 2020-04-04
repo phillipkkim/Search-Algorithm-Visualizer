@@ -28,7 +28,8 @@ const styles = StyleSheet.create({
     letterSpacing: 0.3,
     cursor: "default",
     color: "white",
-    cursor: "pointer"
+    cursor: "pointer",
+    minWidth: "200px"
   },
   space: {
     marginLeft: 20
