@@ -1,0 +1,27 @@
+.block {
+  width: 10px;
+  height: 50px;
+  margin: 2px;
+  display: inline-block;
+}
+
+.block-pending {
+  background-color: rgb(25, 125, 255);
+}
+
+.block-processed {
+  background-color: lightcoral;
+}
+
+.block-result {
+  background-color: lightseagreen;
+}
+
+.block-curr {
+  background-color: gold;
+}
+
+.block-target {
+  margin-right: 100px;
+  background-color: lightseagreen;
+}
