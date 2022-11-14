@@ -11,8 +11,8 @@
     "aphrodite": "^2.4.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
-    "simple-flexbox": "^2.3.0"
+    "react-scripts": "5.0.1",
+    "simple-flexbox": "^2.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
